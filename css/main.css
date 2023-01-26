@@ -494,7 +494,12 @@ ul.special-helf-box-list li.not-chacked{color:#d6dee2}
 .domain-search-input-header{width:100%;border:0;height:75px;border-bottom:4px solid #eaebf2;font-size:22px;padding-right:200px;background:transparent!important;outline:none!important}
 .domain-search-input-header.homapage-domain-search::placeholder{color:#fff!important}
 .domain-search-input-header.homapage-domain-search{color:#fff!important}
-.domain-search-button-header{right:0;height:55px;top:50%;transform:translateY(-50%)}
+.domain-search-button-header{    
+  right: 0;
+  height: 40px;
+  top: 50%;
+  transform: translateY(-80%);}
+
 .domains-box{height:100px;outline:none!important;padding-right:95px}
 .domains-box img{height:18px}
 .domains-box .sold-side-domain{position:absolute;right:0;top:0;bottom:0;border-radius:0 10px 10px 0;padding:9px 5px;text-align:center;color:#fff;width:90px}

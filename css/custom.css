@@ -3,10 +3,12 @@
  -------------------------------------------------------------------*/
  .domain-price span {
   color: #3a4348;
-  margin: 0 10px;
+  margin: 10px 10px;
+  padding-top: 20px;
 }
 
 .domain-price span small {
+  padding-top: 20px;
   color: #24bdc9;
 }
 
