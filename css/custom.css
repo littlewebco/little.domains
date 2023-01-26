@@ -1,6 +1,14 @@
 /*------------------------------------------------------------------
  * template Name: lwc_1
  -------------------------------------------------------------------*/
+ .domain-price span {
+  color: #3a4348;
+  margin: 0 10px;
+}
+
+.domain-price span small {
+  color: #24bdc9;
+}
 
   .hns-search {
     margin-top: 100px;
